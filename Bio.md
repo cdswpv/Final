@@ -1,4 +1,4 @@
-#Biography
+# Biography
 
 My name is Colin Smith and I'm a freshman at Mizzou. I am 18 years old, born on May 31, 2002. 
 I have lived in St. Louis, MO for all of my life, until I moved into Columbia, MO to enjoy college.

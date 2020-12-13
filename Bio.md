@@ -13,6 +13,6 @@ Currently I am on pace to graduate college in four years from now with an Inform
 Now, to navigate to other information about me, click on any of the links.
 
 - [Home](README.md)
-- [Hobbies](Hobbies)
-- [Work Experience](WorkExperiences)
-- [Cars](Cars)
+- [Hobbies](Hobbies.md)
+- [Work Experience](WorkExperiences.md)
+- [Cars](Cars.md)

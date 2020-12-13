@@ -18,6 +18,6 @@ I spend a lot of time and money playing games. It cost me over $1000 to build my
 I play a lot of shooter games and solo RPG games. I even play for the *Rainbow Six: Siege* club team here at Mizzou.
 
 - [Home](README.md)
-- [Bio](Bio)
-- [Work Experience](WorkExperiences)
-- [Cars](Cars)
+- [Bio](Bio.md)
+- [Work Experience](WorkExperiences.md)
+- [Cars](Cars.md)

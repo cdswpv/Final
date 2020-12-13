@@ -6,6 +6,6 @@ My second job I worked at Dick's Sporting Goods, and I hated every second of it.
 My third and current job is at Cane's and I've gone super high up the ladder.
 
 - [Home](README.md)
-- [Hobbies](Hobbies)
-- [Bio](Bio)
-- [Cars](Cars)
+- [Hobbies](Hobbies.md)
+- [Bio](Bio.md)
+- [Cars](Cars.md)
